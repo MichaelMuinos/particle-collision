@@ -1,3 +1,3 @@
 # Particle-Collision
-CS264 Final Project
+CS 256 Final Project
 Particle Collision Program Built With Jose Gutierrez
